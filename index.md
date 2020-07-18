@@ -14,7 +14,7 @@ When I'm not schooling, I am an ambassador for WWU's Physicists for Inclusion in
 
 ## About My Mentor
 
-Dr. Jim Davenport is a Research Assistant Professor at the University of Washington and is the Associate Director of the [DIRAC Institute](http://dirac.astro.washington.edu/). His research specialization is in time domain astronomy, focusing on large data sets from the Kepler, ZTF, and TESS missions. In addition to his research, Dr. Davenport is an avid science communicator and has his own blog [If We Assume](http://www.ifweassume.com/) which covers his journey through data analysis, visualizations, and life.
+[Dr. James R. A. Davenport](https://jradavenport.github.io/) is a Research Assistant Professor at the University of Washington and is the Associate Director of the [DIRAC Institute](http://dirac.astro.washington.edu/). His research specialization is in time domain astronomy, focusing on large data sets from the Kepler, ZTF, and TESS missions. In addition to his research, Dr. Davenport is an avid science communicator and has his own blog [If We Assume](http://www.ifweassume.com/) which covers his journey through data analysis, visualizations, and life.
 
 ## About My Project
 
